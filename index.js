@@ -24,8 +24,8 @@ function dec(n){
   return dec
 }
 function makeInt(n){
-  
+
 }
 preserveDecimal (n){
-  
+
 }
