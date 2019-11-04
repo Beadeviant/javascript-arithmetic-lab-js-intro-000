@@ -23,4 +23,3 @@ function dec(n){
   var dec = --n
   return dec
 }
-
