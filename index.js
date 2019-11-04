@@ -23,9 +23,4 @@ function dec(n){
   var dec = --n
   return dec
 }
-function makeInt(n){
 
-}
-preserveDecimal (n){
-
-}
