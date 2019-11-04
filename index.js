@@ -14,3 +14,18 @@ function divide(a,b){
   var div = a /= b;
   return div
 }
+function inc(n){
+  var inc = ++n
+  return inc
+}
+
+function dec(n){
+  var dec = --n
+  return dec
+}
+function makeInt(n){
+  
+}
+preserveDecimal (n){
+  
+}
